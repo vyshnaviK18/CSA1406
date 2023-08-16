@@ -9,3 +9,4 @@ Compiler Design for Gaming
 ![image](https://github.com/vyshnaviK18/CSA1406/assets/113926615/a828569f-0688-42b6-86a7-79d5213a9c51)
 4)Design a lexical Analyzer to validate operators to recognize the operators +,-,*,/ using regular arithmetic operators using C
 ![image](https://github.com/vyshnaviK18/CSA1406/assets/113926615/41a7ff61-7c0e-4d40-93c8-9e05084f5ef3)
+5)Design a lexical Analyzer to find the number of whitespaces and newline characters using C.
