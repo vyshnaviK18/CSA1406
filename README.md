@@ -1,12 +1,21 @@
 # CSA1406
 Compiler Design for Gaming
 
-1)Develop a lexical Analyzer to identify identifiers, constants, operators using C program.
-![image](https://github.com/vyshnaviK18/CSA1406/assets/113926615/27116ec2-7ccf-4706-9230-05e45ef8ae0e)
-2)Develop a lexical Analyzer to identify whether a given line is a comment or not using C
-![image](https://github.com/vyshnaviK18/CSA1406/assets/113926615/e23cac69-1641-4d17-bd05-2a04640b01e3)
-3)Design a lexical Analyzer for given language should ignore the redundant spaces, tabs and new lines and ignore comments using C
-![image](https://github.com/vyshnaviK18/CSA1406/assets/113926615/a828569f-0688-42b6-86a7-79d5213a9c51)
-4)Design a lexical Analyzer to validate operators to recognize the operators +,-,*,/ using regular arithmetic operators using C
-![image](https://github.com/vyshnaviK18/CSA1406/assets/113926615/41a7ff61-7c0e-4d40-93c8-9e05084f5ef3)
-5)Design a lexical Analyzer to find the number of whitespaces and newline characters using C.
+1.	Comment or NOT
+![image](https://github.com/vyshnaviK18/CSA1406/assets/113926615/cbe7a755-e446-4704-8fe8-bf04d6d112a3)
+
+2.	Token Recognition - to identify identifiers, constants, and operators
+![image](https://github.com/vyshnaviK18/CSA1406/assets/113926615/a1d92318-f843-469f-9176-864025d75d64)
+
+3.	ignore redundant spaces, tabs, and ignore comments.
+
+4.Follow
+
+![image](https://github.com/vyshnaviK18/CSA1406/assets/113926615/8b98b493-8d0c-4bef-ad73-77f63c212cf5)
+
+5.Symbol table operation
+
+![image](https://github.com/vyshnaviK18/CSA1406/assets/113926615/e7f4057d-c0ea-4892-8740-33477edbca30)
+
+6.First
+
