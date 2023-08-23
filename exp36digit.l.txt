@@ -1,0 +1,18 @@
+%{
+#include <stdio.h>
+#include<stdlib.h>
+%}
+
+%%
+[0-9]+ {printf("digit");}
+.+ {printf("not!!");}
+%%
+
+int yywrap()
+{
+}
+
+int main()
+{
+yylex();
+}
